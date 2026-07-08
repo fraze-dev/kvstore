@@ -1,0 +1,15 @@
+# Build output
+kvstore
+/bin/
+
+# Data files — never commit WAL or snapshots
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
