@@ -18,8 +18,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yourusername/kvstore/internal/store"
-	"github.com/yourusername/kvstore/internal/wal"
+	"github.com/fraze-dev/kvstore/internal/store"
+	"github.com/fraze-dev/kvstore/internal/wal"
 )
 
 // setupStore creates a temporary store for benchmarking.

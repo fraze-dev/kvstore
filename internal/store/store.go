@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/kvstore/internal/wal"
+	"github.com/fraze-dev/kvstore/internal/wal"
 )
 
 const numShards = 256 // power of 2 keeps the modulo cheap

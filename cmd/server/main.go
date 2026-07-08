@@ -8,9 +8,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/yourusername/kvstore/internal/protocol"
-	"github.com/yourusername/kvstore/internal/store"
-	"github.com/yourusername/kvstore/internal/wal"
+	"github.com/fraze-dev/kvstore/internal/protocol"
+	"github.com/fraze-dev/kvstore/internal/store"
+	"github.com/fraze-dev/kvstore/internal/wal"
 )
 
 func main() {
