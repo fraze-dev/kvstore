@@ -30,7 +30,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yourusername/kvstore/internal/store"
+	"github.com/fraze-dev/kvstore/internal/store"
 )
 
 // Server wraps the store and handles TCP connections.
